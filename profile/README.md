@@ -1,5 +1,7 @@
 ## Cipher Proxy
 
+A technology research and development company focused on exploring synergies between blockchain, AI/ML, and open metaverse technologies.
+
 <!--
 
 **Here are some ideas to get you started:**
