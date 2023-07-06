@@ -1,14 +1,21 @@
-## Cipher Proxy
+<div align="center">
+    <img src="https://pbs.twimg.com/profile_banners/1374304072757608450/1643441348/1500x500" alt="Banner" width="100%">
+</div>
 
-A technology research and development company focused on exploring synergies between blockchain, AI/ML, and open metaverse technologies.
+# <div align="center">Welcome to Cipher Proxy</div>
 
-<!--
+<br/>
 
-**Here are some ideas to get you started:**
+<div align="center">
+    <a href="mailto:jamesharbeck@cipherproxy.com">
+        <img src="https://img.shields.io/badge/Email-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/cipherproxyllc">
+        <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://cipherproxy.com">
+        <img src="https://img.shields.io/badge/Website-%238384A1.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
